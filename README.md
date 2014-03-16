@@ -11,3 +11,11 @@ Samples
 ```
 include scponly
 ```
+
+License
+-------
+GPL3
+
+Contact
+-------
+breauxaj AT gmail DOT com
